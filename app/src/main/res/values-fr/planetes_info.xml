@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Planets info-->
+    <string name="pluto">Pluton</string>
+    <string name="earth">Terre</string>
+    <string name="venus">Vénus</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="mercury">Mercure</string>
+    <string name="mars">Mars</string>
+    <string name="saturn">Saturne</string>
+    <string name="jupiter_desc">1-LA PLUS GRANDE PLANÈTE\n
+nous pouvons mettre 11 terres sur l\'équateur de Jupiter. Si la Terre avait la taille d\'un raisin,
+Jupiter aurait la taille d\'un ballon de basket..\n
+2-CINQUIÈME PLANÈTE DE NOTRE ÉTOILE\n
+Jupiter orbite à environ 778 millions de kilomètres.n
+3-JOURNÉE COURTE / ANNÉE LONGUE \n
+Jupiter tourne une fois en environ 10 heures (un jour jovien),
+mais prend environ 12 années terrestres pour terminer une orbite du Soleil (une année jovienne).\n
+4-MONDE MASSIF, ÉLÉMENTS LEGERS\n
+L\'atmosphère de Jupiter est composée principalement d\'hydrogène (H2) et d\'hélium (He).\n
+5-PLUSIEURS MONDES\n
+Jupiter a plus de 75 lunes.</string>
+    <string name="mercury_desc">1-LE PLUS PETIT\n
+Mercure est la plus petite planète de notre système solaire, à peine plus grande que la Lune sur Terre.\n
+2-LE PROCHE\n
+C\'est la planète la plus proche du Soleil à une distance d\'environ 58 millions de kilomètres.\n
+3-JOURS LONGS, ANNÉES COURTES\n
+Un jour sur Mercure prend 59 jours terrestres. Un cycle jour-nuit sur Mercure prend 175,97 jours terrestres. Mercure effectue une orbite complète autour du Soleil (un an à l\'époque de Mercure) en seulement 88 jours terrestres.\n
+4-SURFACE RUGUEUSE\n
+Mercure est une planète rocheuse, également connue sous le nom de planète terrestre. Mercure a une surface solide et cratérisée, un peu comme la lune de la Terre.\n
+5-ON PEUT PAS LE RESPIRER\n
+La mince atmosphère de mercure, ou exosphère, est principalement composée d\'oxygène (O2), de sodium (Na), d\'hydrogène (H2), d\'hélium (He) et de potassium (K). Les atomes qui sont projetés sur la surface par le vent solaire et les impacts de micrométéoroïdes créent l\'exosphère de Mercure.
+</string>
+    <string name="venus_desc">1-TAILLE TERRE\n
+Si le soleil était aussi haut qu\'une porte d\'entrée typique, la Terre et Vénus auraient chacune à peu près la taille d\'un nickel.\n
+2-DEUXIÈME ROCHE\n
+Vénus tourne autour de notre Soleil, une étoile. Vénus est la deuxième planète la plus proche du soleil à une distance d\'environ 108 millions de km.\n
+3-UN JOUR DE PLUS D\'UN AN\n
+Un jour sur Vénus dure 243 jours terrestres. Vénus tourne en arrière, son soleil se levant à l\'ouest et se couchant à l\'est.\n
+4-TERRAIN DIVERS\n
+La surface solide de Vénus est un paysage volcanique couvert de vastes plaines comportant de hautes montagnes volcaniques et de vastes plateaux striés.\n
+5-EFFET DE SERRE\n
+La température de surface de la planète est d’environ 465 degrés Celsius.
+    </string>
+    <string name="mars_desc">
+        1-PETITE PLANÈTE\n
+Si le Soleil était aussi haut qu\'une porte d\'entrée typique, la Terre aurait la taille d\'un sou, et Mars serait à peu près aussi gros qu\'un comprimé d\'aspirine.\n
+2-QUATRIÈME ROCHE\n
+Mars tourne autour de notre Soleil. Mars est la quatrième planète du Soleil à une distance moyenne d\'environ 228 millions de km.\n
+3-JOURS PLUS LONGS\n
+Un jour sur Mars prend un peu plus de 24 heures. Mars effectue une orbite complète autour du Soleil (une année martienne) en 687 jours terrestres.\n
+4-TERRAIN RUGUEUX\n
+Mars est une planète rocheuse. Sa surface solide a été altérée par les volcans, les impacts, les vents, les mouvements crustaux et les réactions chimiques.\n
+5-APPORTER UN SCAPHANDRE\n
+Mars a une atmosphère mince composée principalement de dioxyde de carbone (CO2), d\'argon (Ar), d\'azote (N2) et d\'une petite quantité d\'oxygène et de vapeur d\'eau.
+    </string>
+    <string name="earth_desc">1.MESURER\n
+Si le Soleil était aussi haut qu\'une porte d\'entrée typique, la Terre aurait la taille d\'un centime.\n
+2-TROISIÈME ROCHE\n
+La Terre tourne autour de notre Soleil, une étoile. La Terre est la troisième planète du Soleil à une distance d\'environ 150 millions de km.\n
+3-COMME LE MONDE TOURNE\n
+Une journée sur Terre dure 24 heures. La Terre effectue une orbite complète autour du soleil (un an dans le temps de la Terre) en environ 365 jours.\n
+4-NOUS NOUS EN OCCUPONS\n
+La Terre est une planète rocheuse avec une surface solide et dynamique de montagnes, de canyons, de plaines et plus encore. La majeure partie de notre planète est recouverte d\'eau.\n
+5-RESPIRER FACILEMENT\n
+L\'atmosphère terrestre est composée de 78 pourcent d\'azote, 21 pourcent d\'oxygène et 1 pourcent d\'autres ingrédients - l\'équilibre parfait pour respirer et vivre.\n
+    </string>
+    <string name="saturn_desc">
+        1-UNE PLANÈTE COLOSSALE\n
+Neuf Terres côte à côte couvriraient presque le diamètre de Saturne. Cela n\'inclut pas les anneaux de Saturne.\n
+2-DANS LA PENOMBRE\n
+Saturne est la sixième planète de notre Soleil et orbite à une distance d\'environ 1,4 milliard de kilomètres du Soleil.\n
+3-JOURNÉE COURTE, ANNÉE LONGUE\n
+Saturne prend environ 10,7 heures pour tourner une fois sur son axe - un «jour» Saturne - et 29 années terrestres pour orbiter autour du soleil.\n
+4-LE GÉANT GAZEUX\n
+Saturne est une planète géante gazeuse et n\'a donc pas de surface solide comme celle de la Terre. Mais il peut y avoir un noyau solide quelque part là-dedans.
+    </string>
+    <string name="pluto_desc">
+        1-PETIT MONDE\n
+Pluton mesure environ 2380 km de largeur. Cela représente environ la moitié de la largeur des États-Unis, soit 2/3 de la largeur de la lune terrestre.\n
+2-ESPACE PROFOND\n
+Pluton tourne autour du Soleil à environ 5,8 milliards de kilomètres en moyenne, environ 40 fois plus loin que la Terre, dans une région appelée la ceinture de Kuiper.\n
+3-VOYAGE LENT\n
+Une année sur Pluton équivaut à 248 années terrestres. Une journée sur Pluton dure 153 heures ou environ 6 jours terrestres.\n
+4-PETITE TAILLE, MAIS PAS D\'IMPORTANCE\n
+Pluton est officiellement classée comme une planète naine.\n
+5-JOURS BRUMEUX\n
+Pluton a une fine atmosphère d\'azote, de méthane et de monoxyde de carbone. L\'atmosphère a une teinte bleue et des couches distinctes de brume.\n
+6-DANSE DES LUNES\n
+Pluton a 5 lunes. Le plus grand, Charon, est si grand que Pluton et Charon tournent en orbite comme une double planète.
+    </string>
+</resources>

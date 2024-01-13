@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MySpace</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz">Quiz</string>
+    <string name="home">Home</string>
+    <string name="AppName">My Space</string>
+    <string name="account">Account</string>
+    <string name="name">Name: </string>
+    <string name="age">Age: </string>
+    <string name="level">Difficulty: </string>
+    <string name="score">Score: </string>
+    <string name="create_an_account"><u>Create an account</u></string>
+    <string name="help"><u>Help</u></string>
+    <string name="login">Login: </string>
+    <string name="login_btn">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="password">Password: </string>
+    <string name="enter_login">Enter login</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="enter_firstname">Enter name</string>
+    <string name="enter_lastname">Enter lastname</string>
+    <string name="lastname">Lastname: </string>
+    <string name="your_age">Your age</string>
+    <string name="create_an_account_btn">Create an account</string>
+    <string name="question1niv1">What is the largest planet in our solar system?</string>
+    <string name="question2niv1">What is the smallest planet in our solar system?</string>
+    <string name="question3niv1">What is the hottest planet in the Solar System?</string>
+    <string name="question4niv1">What Planet is closest to the Sun</string>
+    <string name="question5niv1">The sixth planet from the Sun features an extensive ring system, what is the name of this planet?</string>
+    <string name="score_display"><b>Your Score is:</b> \n
+						<b>%1$d</b> OUT OF 5</string>
+    <string name="correct_answer">Well done! :) </string>
+    <string name="wrong_answer">Oops! Wrong answer :( </string>
+    <string name="error_login">Wrong login or password</string>
+
+</resources>

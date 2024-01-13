@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MySpace</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz">Quiz</string>
+    <string name="home">Accueil</string>
+    <string name="AppName">My Space</string>
+    <string name="account">Compte</string>
+    <string name="name">Prénom: </string>
+    <string name="age">Âge: </string>
+    <string name="level">Niveau de difficulté: </string>
+    <string name="score">Score: </string>
+    <string name="create_an_account"><u>Créer un compte</u></string>
+    <string name="help"><u>Aide</u></string>
+    <string name="login">Identifiant: </string>
+    <string name="login_btn">Se connecter</string>
+    <string name="enter_password">Entrer mot de passe</string>
+    <string name="password">Mot de passe: </string>
+    <string name="enter_login">Entrer identifiant</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Moyen</string>
+    <string name="hard">Difficile</string>
+    <string name="enter_firstname">Entrer prénom</string>
+    <string name="enter_lastname">Entrer nom</string>
+    <string name="lastname">Nom: </string>
+    <string name="your_age">Votre âge</string>
+    <string name="create_an_account_btn">Créer un compte</string>
+    <string name="question1niv1">Quelle est la plus large planète du système solaire?</string>
+    <string name="question2niv1">Quelle est la plus petite planète du système solaire?</string>
+    <string name="question3niv1">Quelle est la planète la plus chaude?</string>
+    <string name="question4niv1">Quelle est la planète la plus proche du soleil?</string>
+    <string name="question5niv1">La sixième planète du Soleil dispose d\'un vaste système d\'anneaux, quel est le nom de cette planète?</string>
+    <string name="score_display"><b>Votre score est:</b> \n
+						<b>%1$d</b> SUR 5</string>
+    <string name="correct_answer">Bravo! :) </string>
+    <string name="wrong_answer">Oups! Mauvaise réponse :( </string>
+    <string name="error_login">Identifiant ou mot de passe incorrect!</string>
+
+</resources>
